@@ -1,4 +1,4 @@
-Privacy Policy  
+Privacy Policy, Mock App by yikanbuilt.
 ----------------
 
 ### Introduction  
